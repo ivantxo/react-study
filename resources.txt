@@ -8,7 +8,7 @@ Basic Concepts Tutorial:
 https://github.com/reactjs/redux
 
 Redux Video Tutorial:
-https://youtu.be/F59Z80p1Bcw
+https://youtu.be/DiLVAXlVYR0
 
 Clone Redux-React project:
 git clone https://github.com/buckyroberts/React-Redux-Boilerplate.git
