@@ -22,3 +22,12 @@ Go to http://localhost:3000
 
 Read about ES6
 
+Practical guide to Redux:
+https://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/
+
+Getting started with Redux:
+http://www.jchapron.com/2015/08/14/getting-started-with-redux/
+
+Redux recipes:
+https://redux.js.org/docs/recipes/
+
