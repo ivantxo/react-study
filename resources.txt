@@ -5,7 +5,10 @@ Official library:
 https://github.com/reactjs/redux
 
 Basic Concepts Tutorial:
-https://github.com/reactjs/redux
+https://github.com/happypoulp/redux-tutorial
+npm install npm
+nvm ls-remote
+nvm install v6.12.0
 
 Redux Video Tutorial:
 https://youtu.be/DiLVAXlVYR0
