@@ -1,6 +1,21 @@
+Redux starting point:
+http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container
+
+Official library:
+https://github.com/reactjs/redux
+
 Basic Concepts Tutorial:
 https://github.com/reactjs/redux
 
-Video Tutorial:
-https://www.youtube.com/watch?v=DiLVAXlVYR0&index=1&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a
+Redux Video Tutorial:
+https://youtu.be/F59Z80p1Bcw
+
+Clone Redux-React project:
+git clone https://github.com/buckyroberts/React-Redux-Boilerplate.git
+npm install
+webpack
+npm run start
+Go to http://localhost:3000
+
+Read about ES6
 
