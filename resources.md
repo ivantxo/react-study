@@ -37,3 +37,5 @@ Go to http://localhost:3000
 [51 DnD React examples](https://react.rocks/tag/Drag_Drop)
 
 [The Future of DnD with React](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)
+
+[UI Design To Pair/Un-Pair Elements](https://ux.stackexchange.com/questions/25715/how-can-i-allow-users-to-easily-pair-items-from-long-lists)
