@@ -36,3 +36,9 @@ https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8
 
 Documentation from different programming languages
 https://devdocs.io/
+
+51 DnD React examples
+https://react.rocks/tag/Drag_Drop
+
+The Future of DnD with React
+https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f
