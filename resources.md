@@ -41,3 +41,17 @@ Go to http://localhost:3000
 [UI Design To Pair/Un-Pair Elements](https://ux.stackexchange.com/questions/25715/how-can-i-allow-users-to-easily-pair-items-from-long-lists)
 
 [React scafolding](http://fountainjs.io/)
+
+[Todo MVC](https://codesandbox.io/s/github/reactjs/redux/tree/master/examples/todomvc)
+
+[CSS divide into columns](https://stackoverflow.com/questions/10594197/divide-content-area-into-two-columns)
+
+[Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
+[Test Driven PHP](https://code.tutsplus.com/series/test-driven-php--net-27482)
+
+[Go-Land Best Practices for production environments](https://peter.bourgon.org/go-in-production/)
+
+
+
+
