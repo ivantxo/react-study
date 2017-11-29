@@ -52,6 +52,6 @@ Go to http://localhost:3000
 
 [Go-Land Best Practices for production environments](https://peter.bourgon.org/go-in-production/)
 
+[JavaScripts Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-
-
+[Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
