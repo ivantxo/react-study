@@ -54,4 +54,4 @@ Go to http://localhost:3000
 
 [JavaScripts Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-[Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
+[React Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
