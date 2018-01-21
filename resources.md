@@ -69,3 +69,7 @@ npm start
 https://www.designernews.co/stories/85730-is-there-any-popular-uiux-magazine
 
 https://ux.walkme.com/top-5-ux-magazines/
+
+#### Learning React with create-react-app
+
+https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc
