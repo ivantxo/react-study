@@ -56,10 +56,16 @@ Go to http://localhost:3000
 
 [React Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
 
-### Facebook Incubator Tool
+#### Facebook Incubator Tool
 
 create-react-app new-app
 
 cd new-app/
 
 npm start
+
+#### UI/UX Magazines
+
+https://www.designernews.co/stories/85730-is-there-any-popular-uiux-magazine
+
+https://ux.walkme.com/top-5-ux-magazines/
