@@ -55,3 +55,11 @@ Go to http://localhost:3000
 [JavaScripts Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 [React Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
+
+### Facebook Incubator Tool
+
+create-react-app new-app
+
+cd new-app/
+
+npm start
