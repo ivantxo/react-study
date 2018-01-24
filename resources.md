@@ -73,3 +73,27 @@ https://ux.walkme.com/top-5-ux-magazines/
 #### Learning React with create-react-app
 
 https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc
+
+### Mega Team
+
+#### Destructuring Assignment
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+#### Styled Components: 
+https://www.styled-components.com/docs/basics#extending-styles
+
+#### TypeScript vs ES6
+https://www.excella.com/insights/typescript-vs-es6-vs-es2015
+
+#### React and TypeScript
+https://spin.atomicobject.com/2017/10/31/react-typescript-basics/
+
+#### React for Beginners
+https://reactforbeginners.com/
+
+#### Writting scalable React Apps
+https://medium.com/styled-components/component-folder-pattern-ee42df37ec68
+
+#### CSS Grid
+https://cssgrid.io/
+
