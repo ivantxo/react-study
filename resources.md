@@ -97,3 +97,6 @@ https://medium.com/styled-components/component-folder-pattern-ee42df37ec68
 #### CSS Grid
 https://cssgrid.io/
 
+#### TypeScript by the example
+https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html
+
