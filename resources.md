@@ -100,3 +100,5 @@ https://cssgrid.io/
 #### TypeScript by the example
 https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html
 
+#### Understanding JavaScript's Async/Await
+https://ponyfoo.com/articles/understanding-javascript-async-await
