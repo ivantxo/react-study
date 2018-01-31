@@ -102,3 +102,6 @@ https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html
 
 #### Understanding JavaScript's Async/Await
 https://ponyfoo.com/articles/understanding-javascript-async-await
+
+#### 9 Things a React beginner should know
+https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
