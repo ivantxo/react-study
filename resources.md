@@ -105,3 +105,6 @@ https://ponyfoo.com/articles/understanding-javascript-async-await
 
 #### 9 Things a React beginner should know
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+
+#### How to create responsive UI with styled-components
+https://medium.com/styled-components/how-to-create-responsive-ui-with-styled-components-c6b71a3ce172
