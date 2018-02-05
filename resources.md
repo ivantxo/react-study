@@ -111,3 +111,6 @@ https://medium.com/styled-components/how-to-create-responsive-ui-with-styled-com
 
 #### React Scheduler
 https://stephenchou1017.github.io/scheduler/#/
+
+#### DnD with touch support
+https://bluespot.io/2017/01/03/react-drag-and-drop-with-touch.html
