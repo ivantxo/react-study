@@ -118,3 +118,7 @@ https://bluespot.io/2017/01/03/react-drag-and-drop-with-touch.html
 #### React DnD for the Redux developer
 https://medium.com/@adamrackis/react-dnd-intro-for-the-redux-developer-d447c2c1577b
 
+#### Thoughts of a happy programmer
+https://www.rdegges.com/
+
+
