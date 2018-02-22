@@ -121,4 +121,5 @@ https://medium.com/@adamrackis/react-dnd-intro-for-the-redux-developer-d447c2c15
 #### Thoughts of a happy programmer
 https://www.rdegges.com/
 
-
+#### JS: var, let and const
+https://medium.com/@mayashavin/es6-cool-stuffs-var-let-and-const-in-depth-24512e593268
