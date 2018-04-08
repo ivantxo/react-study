@@ -123,3 +123,10 @@ https://www.rdegges.com/
 
 #### JS: var, let and const
 https://medium.com/@mayashavin/es6-cool-stuffs-var-let-and-const-in-depth-24512e593268
+
+#### Modal close button
+https://codepen.io/vlrprbttst/pen/xOoxWo
+
+#### Using ref to click outside element
+https://larsgraubner.com/handle-outside-clicks-react/
+
