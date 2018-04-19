@@ -133,3 +133,5 @@ https://larsgraubner.com/handle-outside-clicks-react/
 #### Redux step by step
 https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092
 
+#### React components and class properties
+https://michalzalecki.com/react-components-and-class-properties/
