@@ -130,3 +130,6 @@ https://codepen.io/vlrprbttst/pen/xOoxWo
 #### Using ref to click outside element
 https://larsgraubner.com/handle-outside-clicks-react/
 
+#### Redux step by step
+https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092
+
