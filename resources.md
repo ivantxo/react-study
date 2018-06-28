@@ -135,3 +135,8 @@ https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-
 
 #### React components and class properties
 https://michalzalecki.com/react-components-and-class-properties/
+
+#### React Redux CRUD App
+https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f
+https://www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/
+
