@@ -138,9 +138,9 @@ https://michalzalecki.com/react-components-and-class-properties/
 
 #### React Redux CRUD App
 https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f
+
 https://www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/
 
 https://www.codeofaninja.com/2016/07/react-crud-tutorial.html
+
 https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
-
-
