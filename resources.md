@@ -144,3 +144,7 @@ https://www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redu
 https://www.codeofaninja.com/2016/07/react-crud-tutorial.html
 
 https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
+
+#### Simple React Router
+https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
+
